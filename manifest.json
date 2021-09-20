@@ -1,0 +1,248 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/GitHub/Gattai Tools",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "XgPNdj/aXzDasUNiQSLBfCgYtpTbC/ViUznhMmHH2Yw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "7UxNfjF3xidnpVKqY/1PM11CThnGw35/3OTUa1fLZzY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "gA35v7881qO2iDmY1ZFSoaibtux3FOuzgUMhGf8/nVo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GattaiTools.EventSystem.EventEmitter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GattaiTools.EventSystem.EventEmitter.html",
+          "hash": "KaIoiixBRHVaxgoUV8bshqgi+b+OJ5VUIGSH2jdSgz4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GattaiTools.EventSystem.EventListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GattaiTools.EventSystem.EventListener.html",
+          "hash": "Oo6XRwd8jqaH6QIcxkyrETQHxKcLUNS4GWbz+ylk/jU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GattaiTools.EventSystem.EventsListenerCustomEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GattaiTools.EventSystem.EventsListenerCustomEditor.html",
+          "hash": "44NVlPsPPPv53oy9WUFxUJXa8sZpwcP6icn1UOWPtGI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GattaiTools.EventSystem.EventsListenerEditorWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GattaiTools.EventSystem.EventsListenerEditorWindow.html",
+          "hash": "vkamG50b/YxCVBepC3kbXdrJTYEMITIF9pDep3RD5b4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GattaiTools.EventSystem.Listener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GattaiTools.EventSystem.Listener.html",
+          "hash": "Gomm2itdr75GipJ/JYBLdbdkhefFjh/UwduTTqb3YII="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GattaiTools.EventSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GattaiTools.EventSystem.html",
+          "hash": "Tkl0K+GAEJXBmTPXlmCmBQDtraaTudRQ4vDTsRYkCLo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GattaiTools.ExtendedCustomEditorWindow.ExtendedEditorWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GattaiTools.ExtendedCustomEditorWindow.ExtendedEditorWindow.html",
+          "hash": "vxx+QT86/h+1y/ruVtU2WjzNRPrX0EB6BIiqYYB6iDg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GattaiTools.ExtendedCustomEditorWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GattaiTools.ExtendedCustomEditorWindow.html",
+          "hash": "iyhcKIEieR/2SlTmjPeIzHMHmesksi90XABA3KMOEkc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GattaiTools.Tests.EventListenerTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GattaiTools.Tests.EventListenerTests.html",
+          "hash": "U/sF1M/NhT+l8KsbqTO96j8X1t91c6qP48rpRRtBO4o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GattaiTools.Tests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GattaiTools.Tests.html",
+          "hash": "jf4jK/2Kncfg44kG125mjK+qWmITzdO/OnrF+2F+Y+4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "0C5AmzVykCkpkpZDjDxvXz/4kXZ46x/wMofyYV8iAnE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "Oa9PuD4E1hvZnCkVjUgzNBX6S00Zo5YilamTERTZo54="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 10,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
